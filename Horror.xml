@@ -1,13 +1,13 @@
 <xml>
 <item>
-<title>Testing</title>
+<title>Testing 1</title>
 <thumbnail></thumbnail>
-<link></link>
+<link>plugin://plugin.video.youtube/play/?video_id=7G5_VtpxZ2E</link>
 <summary></summary>
 </item>
 <item>
-<title>Testing</title>
-<thumbnail></thumbnail>
+<title>Testing 2</title>
+<thumbnail>plugin://plugin.video.youtube/play/?video_id=TgEdrzrE38I</thumbnail>
 <link></link>
 <summary></summary>
 </item>
