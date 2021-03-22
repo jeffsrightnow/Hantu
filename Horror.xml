@@ -1,15 +1,14 @@
 <xml>
-<item>
-<title>Testing 1</title>
-<thumbnail></thumbnail>
-<link>https://www.youtube.com/watch?v=TgEdrzrE38I</link>
-<summary></summary>
-</item>
-<item>
-<title>Testing 2</title>
-<thumbnail></thumbnail>
-<link>https://www.youtube.com/watch?v=TgEdrzrE38I</link>
-<summary></summary>
-</item>
-
+	<item>
+		<title>Testing 1</title>
+		<thumbnail></thumbnail>
+		<link>https://www.youtube.com/watch?v=TgEdrzrE38I</link>
+		<summary></summary>
+	</item>
+	<item>
+		<title>Testing 2</title>
+		<thumbnail></thumbnail>
+		<link>https://www.youtube.com/watch?v=TgEdrzrE38I</link>
+		<summary></summary>
+	</item>
 </xml>
