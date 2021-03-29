@@ -1,8 +1,37 @@
 <xml>
-	<dir>
-		<title>Testing Only</title>
-		<link>https://kextremeorg.wpcomstaging.com/wp-content/uploads/2021/03/output.xml</link>
-		<thumbnail>https://i.pinimg.com/originals/9b/b0/7d/9bb07d6db797dfe8cfd69f9eedcc01ed.png</thumbnail>
-		<summary>New Release Movies</summary>
-	</dir>
+  <dir>
+    <title>Addon Reviews</title>
+    <thumbnail></thumbnail>
+    <link>https://files.000webhost.com/handler.php?action=download?action=download&path=%2FAku%20Yang%20Kau%20Gelar%20Isteri.xml</link>
+    <summary></summary>
+  </dir>
+
+<dir>
+    <title>Build Reviews</title>
+    <link></link>
+    <thumbnail></thumbnail>
+    <summary></summary>
+  </dir>
+
+  <dir>
+    <title>Streaming Matters</title>
+    <link></link>
+    <thumbnail></thumbnail>
+    <summary></summary>
+  </dir>
+
+<dir>
+    <title>Dabs Must Haves</title>
+    <link></link>
+    <thumbnail></thumbnail>
+    <summary></summary>
+  </dir>
+
+  <dir>
+    <title>Tips And Tricks</title>
+    <link></link>
+    <thumbnail></thumbnail>
+    <summary></summary>
+  </dir>
+
 </xml>
